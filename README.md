@@ -12,8 +12,8 @@ In this project, I build a neural network from scratch to carry out a prediction
 ### Getting Started
 - Clone this repo:
 ```bash
-git clone 
-cd 
+git clone https://github.com/zhaozhichao4515/Bike-Sharing
+cd Bike-Sharing 
 ```
 - Download the dataset (script borrowed from [torch code](https://github.com/phillipi/pix2pix/blob/master/datasets/download_dataset.sh)):
 ```bash
@@ -26,8 +26,8 @@ python main.py
 ## Results
 Training loss: 0.0524    Validation loss: 0.0570
 
-![loss](/Users/zhaozhichao/Desktop/Bike-Sharing/example/loss.png)
+![loss](./example/loss.png)
 
 
 
-Predict result:![predict](/Users/zhaozhichao/Desktop/Bike-Sharing/example/predict.png)
+Predict result:![predict](./example/predict.png)
